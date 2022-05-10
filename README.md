@@ -64,8 +64,7 @@ variable and independent variables
 * **Bar Graph:** The bar graph provides the missing data percentage for the top 20 independent variables
 
 ### Ethical considerations:
-* **Math issues**:*** Few input columns have been transformed based on their contribution to the model and the categorical variables are subjected to Label Encoding. 
-Hence, interpretation can be a hard
+* **Math issues**:*** Few input columns have been transformed based on their contribution to the model and the categorical variables are subjected to Label Encoding. Hence, interpretation can be a hard. Also, the concept of red-lining can cause bias with respect to Neighborhood
 * **Real World Risks**:
 * If this model is used to make business decisions, it might not be accurate due to the variable importance measure and can severly impact the outcome
 
